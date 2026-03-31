@@ -1,2 +1,14 @@
 #Ignorando ambiente virtual
 .venv/
+
+#Ignorando os dados
+data/
+
+#Ignorando artefatos
+model/
+mlruns/
+mlartifacts/
+
+#Python
+__pycache__/
+*.pyc
